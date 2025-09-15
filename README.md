@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Joseph Baria
-- 👀 I’m interested in exploring web and app development
 - 🌱 Web/mobile app dev
 - 📫 How to reach me: josephbaria89@gmail.com
 - ⚡ Fun fact: there are so many facts about me, but aren't funny frfr
